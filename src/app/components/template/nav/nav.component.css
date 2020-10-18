@@ -1,7 +1,15 @@
+mat-sidenav-container {
+    flex: 1;
+}
+
 mat-sidenav {
-    width: 15vw;
+    width: 200px;
 }
 
 [mat-list-item] i {
     margin-right: 1rem;
+}
+
+mat-sidenav-content {
+    padding: 16px;
 }
